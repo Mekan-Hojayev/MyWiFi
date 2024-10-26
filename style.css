@@ -22,6 +22,9 @@ body {
     min-height: 100vh;
     background-color: #f4f4f9;
     background-image: url('https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg');
+    /*
+    Here you can replace with your image link 
+    */
     background-size: cover;
     background-position: center;
     color: #333;
